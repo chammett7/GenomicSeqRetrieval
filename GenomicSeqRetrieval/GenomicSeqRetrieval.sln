@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "GenomicSeqRetrieval", "GenomicSeq\.csproj", "{1486EE84-3918-45EA-99D1-63D13EA3AB67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88D29450-90B2-4814-96F3-5EBC42CE9087}"
+	ProjectSection(SolutionItems) = preProject
+		CustomExceptions.cs = CustomExceptions.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1486EE84-3918-45EA-99D1-63D13EA3AB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1486EE84-3918-45EA-99D1-63D13EA3AB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1486EE84-3918-45EA-99D1-63D13EA3AB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1486EE84-3918-45EA-99D1-63D13EA3AB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

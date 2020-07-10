@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/AssesmentCab201.csproj": {}
+  },
+  "projects": {
+    "/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/AssesmentCab201.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/AssesmentCab201.csproj",
+        "projectName": "AssesmentCab201",
+        "projectPath": "/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/AssesmentCab201.csproj",
+        "packagesPath": "/Users/cecilhammett/.nuget/packages/",
+        "outputPath": "/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/cecilhammett/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

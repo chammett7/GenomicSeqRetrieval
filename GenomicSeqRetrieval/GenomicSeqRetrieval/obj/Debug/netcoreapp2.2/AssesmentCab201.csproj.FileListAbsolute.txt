@@ -1,0 +1,11 @@
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.csprojAssemblyReference.cache
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.csproj.CoreCompileInputs.cache
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.AssemblyInfoInputs.cache
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.AssemblyInfo.cs
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/bin/Debug/netcoreapp2.2/AssesmentCab201.deps.json
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/bin/Debug/netcoreapp2.2/AssesmentCab201.runtimeconfig.json
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/bin/Debug/netcoreapp2.2/AssesmentCab201.runtimeconfig.dev.json
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/bin/Debug/netcoreapp2.2/AssesmentCab201.dll
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/bin/Debug/netcoreapp2.2/AssesmentCab201.pdb
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.dll
+/Users/cecilhammett/Desktop/Projects/AssesmentCab201/AssesmentCab201/obj/Debug/netcoreapp2.2/AssesmentCab201.pdb

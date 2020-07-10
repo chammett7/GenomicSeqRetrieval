@@ -1,0 +1,2 @@
+>NR_074334.1 Archaeoglobus fulgidus DSM 4304 16S ribosomal RNA, complete sequence >NR_118873.1 Archaeoglobus fulgidus DSM 4304 strain VC-16 16S ribosomal RNA, complete sequence >NR_119237.1 Archaeoglobus fulgidus DSM 4304 strain VC-16 16S ribosomal RNA, complete sequence
+>NR_044838.1 Atopobium minutum strain NCFB 2751 16S ribosomal RNA, partial sequence

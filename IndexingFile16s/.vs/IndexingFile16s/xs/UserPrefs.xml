@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2515D713-2262-4E04-BC1B-2DA6C8937924}|Default">
+  <MonoDevelop.Ide.ItemProperties.IndexingFile16s FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IndexingFile16s/indexing16s.cs">
+    <Files>
+      <File FileName="IndexingFile16s/Program.cs" Line="37" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IndexingFile16s" expanded="True">
+            <Node name="IndexingFile16s" expanded="True">
+              <Node name="indexing16s.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
