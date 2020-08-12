@@ -164,4 +164,4 @@ mono GenomicSequenceRetrieval.exe -level7 16S.fasta  ACTG*GTAC*CA
 * Regular expression was used to preform this level. 
 
 ## Author and Acknowledgment
-The program was written by myself, Cecil Hammett (chammett7) for a major assignment in my Programming Principles unit at Queensland University of Technology. The unit took place in semester 2, 2019. Thank you cab201 teaching team for providing me with this assignment. Genomic Sequence Retrival was challenging but rewarding in the end.  
+The program was written for my Programming Principles unit at Queensland University of Technology. The unit took place in semester 2, 2019. Thank you teaching team for providing me with this assignment. Genomic Sequence Retrival was challenging but rewarding in the end.  
